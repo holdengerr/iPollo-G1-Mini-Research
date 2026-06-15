@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large or raw reverse-engineering artifacts do not belong in this repo.
+*.bin
+*.gzf
+*.pcap
+*.logicdata
+*.sal
+*.csv
+*.zip
+*.7z
+
+# Local analysis and decompiler output
+ghidra-project/
+outputs/
+captures/
+artifacts/
