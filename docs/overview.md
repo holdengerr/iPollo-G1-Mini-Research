@@ -1,6 +1,6 @@
 # Overview
 
-The iPollo G1 Mini is a small Grin-focused mining device built around a Linux-capable host controller board and a separate mining subsystem driven over a high-speed UART link.
+The iPollo G1 Mini is a small Grin-focused mining device built around a Linux-capable black host board and a separate green hash board driven over a high-speed UART link.
 
 ## Summary
 

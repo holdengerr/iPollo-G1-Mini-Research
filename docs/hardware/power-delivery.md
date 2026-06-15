@@ -53,6 +53,6 @@ These values were observed through temporary MCU probe firmware rather than the 
 
 ## Evidence
 
-- Board photo identified `ISL68127`.
+- Green hash-board photo identified `ISL68127`.
 - MCU firmware decompilation ties `0x21` writes and `0x8b` readback to named `ISL` voltage paths.
 - Temporary probe firmware confirmed readable values at `0x8c` and `0x96`.

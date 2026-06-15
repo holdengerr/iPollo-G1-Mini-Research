@@ -1,6 +1,6 @@
 # Host Board
 
-This page covers the Linux-capable controller board only.
+This page covers the Linux-capable black controller board only.
 
 ## Confirmed
 
@@ -10,16 +10,16 @@ This page covers the Linux-capable controller board only.
 - Board size marking: `110MM X 83MM`
 - Ethernet magnetics module: `HanRun TF102 2213T`
 - External flash: `EN25QH128A-104HIP`, 16 MB SPI NOR
-- DRAM: single external SK hynix DDR3 device, likely `H5TQ2G63GFR` family
+- DRAM: single external SK hynix DDR3 device `H5TQ2G63GFR`
 
 ## Inferred
 
-- DRAM capacity is likely **256 MB** from the visible x16 DDR3 package and part-family pattern.
+- DRAM capacity is **256 MB** from the `2 Gbit x16` DDR3 device configuration.
 - The controller board appears to be based on a reusable Allwinner H3 reference-style layout adapted for this miner family.
 
 ## Unknown
 
-- Exact DRAM suffix and speed grade
+- Exact DRAM speed grade
 - Whether the unpopulated controller-side footprints are used in other product variants
 
 ## Observed layout
@@ -33,7 +33,7 @@ This page covers the Linux-capable controller board only.
 
 - The host SoC package is visibly marked `ALLWINNER TECH H3`.
 - The board silkscreen clearly shows `H3_REF_DDR3_16X1_4L_V1.0`.
-- A closeup photo identifies the DRAM package as an SK hynix DDR3 device in the `H5TQ2G63...` family.
+- A closeup photo identifies the DRAM package as `H5TQ2G63GFR`.
 
 ## Photos
 

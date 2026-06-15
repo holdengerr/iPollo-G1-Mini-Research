@@ -11,6 +11,8 @@ This appendix maps major claims to the kind of evidence behind them.
 | 16 MB SPI NOR flash | flash package identification and stock-system observations |
 | Host-board silkscreen and board type | board photography |
 | ISL68127 mining-side regulator | mining-board photo |
+| FT24C16A device on hash board | microscope photo with package marking |
+| MX25U4033E device on hash board | microscope photo with package marking |
 
 ## Stock software
 
